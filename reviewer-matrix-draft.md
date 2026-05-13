@@ -1,6 +1,6 @@
-# Reviewer Matrix — DRAFT (not finalized)
+# Reviewer Matrix
 
-_Status: Draft. Not sent to reviewers yet._
+_Finalized: 2026-05-13_
 
 ## Assignments
 
@@ -13,15 +13,21 @@ _Status: Draft. Not sent to reviewers yet._
 | code-review.md | Rafael | Emma | Rafael most active reviewer |
 | escalation-paths.md | Jonas | — | Jonas suggested the 2-tier structure |
 
-## Review instructions (draft — not sent)
-- Review your assigned sections by [DATE TBD]
-- Focus on: accuracy, missing edge cases, anything that would confuse a new hire
-- Leave comments in [Notion / local file / TBD format]
-- Flag anything you disagree with — we'll discuss async before locking
+## Review instructions
 
-## Status
-Not finalized. Need to:
-1. Confirm availability with each reviewer
-2. Set a review deadline
-3. Pick a format for collecting feedback
-4. Send the pack
+- **Deadline: Friday 2026-05-16, end of day**
+- Review your assigned sections in the repo
+- Focus on: accuracy, missing edge cases, anything that would confuse a new hire
+- Leave comments directly in the markdown files — use the marker below so they're easy to find
+- Flag anything you disagree with — we'll review async and lock decisions next week
+- Lukas signs off on everything after review
+
+## Feedback format
+
+Add comments directly in the markdown files in this repo. Use a clear marker:
+
+```
+> **[REVIEW — Name]:** Your comment here
+```
+
+We'll do one async pass to resolve all comments, then lock the files.
